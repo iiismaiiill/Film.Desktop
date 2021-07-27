@@ -1,0 +1,532 @@
+[
+  {
+    "MainId": 1,
+    "Name": "Film",
+    "ListFilm": [
+      {
+        "SubMainID": 1,
+        "SubName": "Aile",
+        "ListFilmAile": [
+          {
+            "id": 1,
+            "name": "Hazine Avcısının Maceraları",
+            "resim": "https://resim.fullhdfilmizlesene.com/mdsresim_izle/fullhd-hazine-avcisinin-maceralari-1-animasyon-izle.jpg?0.17876704529698628",
+            "imdb puanı":"7,8",
+            "tür":"Aile Filmleri, Fantastik Filmler, Müzikal Filmler,Animasyon Filmler",
+            "yayın tarihi":"2017",
+            "ülkesi":"ABD",
+            "acıklama":"Tadeo, Chicago’da basit bir işçi olarak hayatını sürdüren fakat son derece maceracı bir ruha sahip bir hayalperesttir. Sıradan bir günde tanınmış bir arkeologla karıştırıldığında talihi döner ve önemli bir görevi yerine getirmek üzere Peru’ya gönderilir. Bu görev içinse hazine avcısı bir gangster gruba başvurmak zorundadırlar. Bu süreçte olağanüstü güzellikteki İnka şehri keşfedilmek üzeredir ve Tadeo, yanında birbirinden renkli karakterlerle zorlu olduğu kadar büyülü de olan bir maceraya atılır."
+          },
+          {
+            "id": 2,
+            "name": "Güzel ve Çirkin",
+            "resim": "https://resim.fullhdfilmizlesene.com/mdsresim_izle/fullhd-guzel-ve-cirkin-izle-hd-film-izle.jpg?0.15392598510370537",
+            "imdb puanı":"7,2",
+            "tür":"Aile Filmleri, Fantastik Filmler, Müzikal Filmler, Romantik Filmler",
+            "yayın tarihi":"2017",
+            "ülkesi":"ABD",
+            "acıklama":"Hikayenin birinde  çok zengin bir prens varmış eğlence yaptığı sırada yaşlı bir kadın gelmiş ve ona bir gül uzatmış. Genç ve kibirli prens bunu kabul etmemiş aslında gelen kişi yaşlı kılığında bir büyücüymüş. Sonrasında genç prensin bu yaptığından çok kızarak asıl güzelliğin dış görünüşte olmadığını söyeleyerek bir lanet yaparak onu çirkine çevirmiş taki ona verdiği son gül yere düşene kadar gerçekten çirkin halde onu seven birisi çıkarsa lanet ortadan kalkacaktır. "
+          },
+          {
+            "id": 3,
+            "name": "Şirinler 3 Kayıp Köy",
+            "resim":"https://resim.fullhdfilmizlesene.com/mdsresim_izle/fullhd-sirinler-3-kayip-koy-smurfs-the-lost-village.jpg",
+            "imdb puanı":"8,1",
+            "tür":"Aile Filmeler, Animasyon Filmer, Aksiyon Filmler",
+            "yayın tarihi":"2011",
+            "ülkesi":"İngiltere",
+            "acıklama":"Şirinler 3 Kayıp Köy’ü Her Zamankinden Daha ŞirinSmurfs: The Lost Village (asıl adı Get Smurfy) olan Amerikan 3D bilgisayar animasyon, macera ve komedi filmidir. Şirinler 3 Kayıp Köy animasyon filmin yönetmenliğini Kelly Absury üstlenmiştir. Şirinler çizgi filmi aslında yine aynı adı taşıyan ve yaratıcısı Belçikalı çizgi roman sanatçısı Peyo’ya ait olan bir çizgi romandan alınmıştır."
+          }
+        ]
+      },
+      {
+        "SubMainID": 2,
+        "SubNameame": "Animasyon",
+        "ListFilmAnimasyon": [
+          {
+            "id": 1,
+            "name": "Oyuncak Hikayesi 4",
+            "resim":"https://resim.fullhdfilmizlesene.com/mdsresim_izle/fullhd-oyuncak-hikayesi-4-toy-story-4-2019-animasyon-izle.jpg?0.6671931700065181",
+            "imdb puanı":"6,9",
+            "tür":"Animasyon Filmer,Macera Filmler",
+            "yayın tarihi":"2002",
+            "ülkesi":"ABD",
+            "acıklama":"2019 yılının ortasında full hd film özelliği ile ekranlara gelecek olan filmde; Woody her zaman dünyada kendi yerinden emin bir şekilde yaşamaktadır ve sadece onun için Andy ve Bonnie önemlidir. Ancak bir gün Boonnie odasına Forky adında yeni bir oyuncağı koyar ve bunun sonucu olarak da Woody macera dolu bir yolculuğa eski ve yeni dostlarla çıkar ve dünyanın hiç de sandığı kadar küçük olmadığını öğrenir."
+          },
+          {
+            "id": 2,
+            "name": "Örümcek Adam Örümcek Evreninde ",
+            "resim":"https://resim.fullhdfilmizlesene.com/mdsresim_izle/fullhd-orumcek-adam-orumcek-evreninde-animasyon-film-izle.jpg?0.07817487792624389",
+            "imdb puanı":"7,1",
+            "tür":"Animasyon Filmler, Macera Filmler, Aksiyon Filmler",
+            "yayın tarihi":"2018",
+            "ülkesi":"ABD",
+            "acıklama":"90,000,000 dolar büyçe ile beyazperde'de yayınlanan Örümcek Adam Örümcek Evreninde - SpiderMan Into the Spider Verse filmi hızlı bir şekilde imdb puanlama sitesinde ilk 250 film arasında 26. sırayı almış görünüyor. Birden çok farklı özelliklere sahip süper kahrraman olan örüncek adam evrenini konu alan film. İdealleri olan bir polis memurunun oğlu olan Miles Morales okulda özel yeteneklerini olan bir okula ailesi tarafından yazdırılacak fakat diğer arkadaşları gibi hiçbir özel yeteneği yoktur ve ailesi ondan özel bir yetenek bekleyecektir. 2018 yapımı olan Örümcek Adam"
+          },
+          {
+            "id": 3,
+            "name": "Aslan Kral",
+            "resim":"https://resim.fullhdfilmizlesene.com/mdsresim_izle/fullhd-aslan-kral-izlehd.jpg?0.04130952318839709",
+            "imdb puanı":"8,8",
+            "tür":"Animasyon Filmler,Dram Filmler",
+            "yayın tarihi":"1994",
+            "ülkesi":"Avusturlya",
+            "acıklama":"1994 yılında çıkmış aslan kral çizgi film serisi tam 24 yıl sonra 2019 gelişmiş teknoloji ve hikayesi ile animasyon severlerler buluşacak. 01 Temmuz 2019 (ABD)'de yayınlanacak olan animasyon filminin yönetmeni Jon Favreau senaryo ekibi ise Irene Mecchi, Jeff Nathanson, Jonathan Roberts çalışmışlardır. Filmin fragmanı ile 1994 yılındaki ilk aslan kral filminin giriş kısmı neredeyse birbirinin aynısı fakat teknolojinin gelişmesi ile çok gerçekçi. Merakle beklenen aslan kral filmi çıktığında ilk olarak türkçe altyazılı ilerleyen zamanlarda ise türkçe dublaj çıkacağını düşünüyoruz. "
+          }
+        ]
+      },
+      {
+        "SubMainID": 3,
+        "SubName": "Aksiyon",
+        "ListFilmAksiyon": [
+          {
+            "id": 1,
+            "name": "RoboCop",
+            "resim":"https://resim.fullhdfilmizlesene.com/mdsresim_izle/fullhd-robocop-film-izle.jpg",
+            "imdb puanı":"İngiltere",
+            "tür":"Aksiyon Filmler,Macera Filmler,Polisiye Filmler",
+            "yayın tarihi":"2019",
+            "ülkesi":"ABD",
+            "acıklama":"OmniCorp robot teknolojileri üzerine çalışan büyük bir şirkettir. Sene 2028 'dir ve robot teknolojisinde bir numaraya yükselmiştir. Polis olarak çalışan Alex girdiği bir çatışmada vucudunun büyük bir bölümü hasar görür. Tek seçenek vardır Alex'i robot yapmak. Robocop bu şekilde doğmuştur."
+          },
+          {
+            "id": 2,
+            "name": "Çelik Yumruklar",
+            "resimler":"https://resim.fullhdfilmizlesene.com/mdsresim_izle/fullhd-celik-yumruklar-turkce-altyazi-izle-hd-720p-nette-ilk.jpg?0.15967172187789713",
+            "imdb puanı":"6,9",
+            "tür":"Aksiyon Filmler,Macera Filmler",
+            "yayın tarihi":"2017",
+            "ülkesi":"İngiltere",
+            "acıklama":"Yakın gelecekte, boks sporunun teknolojik bir hâl aldığı bir ortamda geçen cesur, gerilim ve aksiyon dolu “Çelik Yumruklar” filminde Hugh Jackman, 2,5 metre boyunda 900 kiloluk robotların ringlere çıkmasıyla unvan kazanma şansını kaybeden tükenmiş dövüşçü Charlie Kenton’ı canlandırıyor. Artık küçük çaplı bir organizatör olan Charlie, bir yer altı boks ringinden diğerine geçmek için hurda metalden kalitesiz robotlar yaparak iki yakasını bir araya getirmektedir. Charlie dibe vurunca, istemeden de olsa kendisinden ayrı yaşayan oğlu Max’le (Dakota Goyo) şampiyonada yarışacak bir yarışmacı yapıp eğitmek için birlik olur. Hiçbir kısıtlama olmayan bu vahşi arenada işler ciddiye bindikçe, Charlie ve Max bütün engellere rağmen, geri dönmek için son bir şans daha elde ederler. "
+          },
+          {
+            "id": 3,
+            "name": "Venom",
+            "resim":"https://resim.fullhdfilmizlesene.com/mdsresim_izle/fullhd-venom-filmi-izle-hd-turkce-dublaj-full-hd-filmi-izle.jpg?0.5571948785941474",
+            "imdb puanı":"6,8",
+            "tür":"Aksiyon Filmler,Gerilim Filmler",
+            "yayın tarihi":"2019",
+            "ülkesi":"ABD",
+            "acıklama":" Eddie Brock gözünü budaktan sakınmayan ve hiç bir otoriteden çekinmeden gerçeğin peşine düşen bir haber muhabiridir ve diğer muhabirlerin aksine kendini sokaklara ve tehlikenin tam ortasına atmaya alışkındır. Eddie adına çalıştığı televizyon şirketi tarafından Life Foundation (Hayat Vakfı) adı verilen bir şirketin sahibi olan Carlton Drake adı verilen genç bir dâhi ile ropörtaj yapmak için görevlendirilmiştir. Fakat Eddie için bu ropörtajın hiç bir anlamı yoktur çünkü Eddie daha sıradışı ve kamuoyundan gizlenen olayları araştırmayı sevmektedir."
+          }
+        ]
+      },
+      {
+        "SubMainID": 1,
+        "SubName": "Tarih",
+        "ListFilmTarih": [
+          {
+            "id": 1,
+            "name": "Büyük İskender",
+            "resim":"https://resim.fullhdfilmizlesene.com/mdsresim_izle/fullhd-buyuk-iskender-film-izle.jpg?0.9502438749526441",
+            "imdb puanı":"8,9",
+            "tür":"Tarih Filmler",
+            "yayın tarihi":"1998",
+            "ülkesi":"İtalya",
+            "acıklama":"Tür : Savaş Tarih Biyografi Yapım Yılı : 2004 İMDB Puanı : Yönetmen : Oliver Stone Oyuncular : Angelina Jolie (Olympias) , Anthony Hopkins (Old Ptolemy) ,Colin Farrell (Alexander), Açıklama: Tarihin en büyük komutanlarından birisi olan Büyük İskender çok kısa bir sürede Pers İmparatorluğunu yıkarak Makedon krallığını uçsuz bucaksız sınırlara kavuşturacaktır. Bunu yaparken sevgilisi ve veziri Hephaestinun yardımını görecektir. Filmde İskenderin aşk, hırs ve savaşları anlatılıyor."
+          },
+          {
+            "id": 2,
+            "name": "Denizin Ortasında",
+            "resim":"https://resim.fullhdfilmizlesene.com/mdsresim_izle/fullhd-denizin-ortasinda-in-the-heart-of-the-sea-film-izle.jpg",
+            "imdb puanı":"7,7",
+            "tür":"Tarih Filmler",
+            "yayın tarihi":"1999",
+            "ülkesi":"ABD",
+            "acıklama":"Zamanın birinde insanlık geceleri aydınlatabilmek için okyanuslarda yaşayan balinaların yağlarını kullanabilmeyi öğrenmiştir. Bununla bereber kaptanlar gemileriyle yeni seferlere gitmekte gemilerini yakalayıp öldürdükleri balinaların yağlarıyla doldurmaktadırlar.  Son işinden sonra kaptan olma sözü verilen bir adam. Gemilerin sahibinin oğlu'nun kaptanlığında okyanusa açılır. Yaptığı anlaşma gereği eğer gemiyi balina yağı doldurum geri getirirse sonrasında kaptan olup işçi sınıfından çıkıp zengin tarafta yaşam sürecektir. Hamile olan karısından şans öpücüğü alarak yola çıkacaklardır. "
+          },
+          {
+            "id": 3,
+            "name": "Ip Man 4",
+            "resim":"https://resim.fullhdfilmizlesene.com/mdsresim_izle/fullhd-ipm4-film-izle.jpg?0.6580113549319502",
+            "imdb puanı":"7,9",
+            "tür":"Aksiyon Filmler , Tarih Filmler",
+            "yayın tarihi":"2019",
+            "ülkesi":"Kore",
+            "acıklama":"Ip Man 4: Finale, Wilson Yip tarafından yönetilen ve Raymond Wong tarafından üretilen 2019 yapımı Çin dövüş sanatları filmidir. Aynı adı taşıyan Wing Chun büyük ustasının hayatını anlatan Ip Man film serisinin dördüncü ve son filmidir ve başrolde tekrardan Donnie Yen yer almaktadır. Film, Nisan 2018'de çekilmeye başlanmıştır ve aynı yıl Temmuz ayında sona ermiştir. 20 Aralık 2019'da ise gösterime sunulmuştur. Karısının ölümünden sonra, Ip Man sigara yüzünden boğaz kanseri olduğunu öğrenir. İsyankar oğlu Ip Ching ise okulda zorbalığa karşı savaştıktan sonra kovulur ve Ip bir okul aramak için Amerika Birleşik Devletleri'nin San Francisco şehrine gitmeye karar verir. Öğrencisi Bruce Lee, bir Wing Chun okulu açarak, Amerikalılara dövüş sanatlarını öğreterek ve dövüş sanatları üzerine bir kitap yazarak San Francisco'daki yerel dövüş sanatları topluluğunu altüst etmiştir."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MainId": 2,
+    "Name": "Dizi",
+    "ListDizi": [
+      {
+        "SubMainID": 1,
+        "SubName": "Aile",
+        "ListDiziAile": [
+          {
+            "id": 1,
+            "name": "Leyla ile Mecnun",
+            "resim":"https://www.trt1.com.tr/public/dm_upload/modul4/985ab76a-e14b-4b2c-a949-8f30211ec26e.jpg",
+            "imdb puanı":"9,9",
+            "tür":"Dram Dizi , Aile Dizi",
+            "yayın tarihi":"2014",
+            "ülkesi":"Türkiye",
+            "acıklama":"Aynı gün, aynı hastanede dünyaya gelen iki bebek, yatak sayısının azlığından dolayı yan yana yatırılırlar. Ailelerinin doğar doğmaz birbirlerini buldular sözü üzerine beşik kertmesi yapılan bebekler, isimlerini de efsane aşıklar Leylâ ve Mecnun'dan alırlar.Aradan 25 yıl geçer. Bir sabah ailesi Mecnun'a durumu anlatır ve Leyla'yı istemeye giderler. "
+          },
+          {
+            "id": 2,
+            "name": "Seksenler",
+            "resim":"https://canlitv.com/resimler/blog/seksenler-dizisi-ne-zaman-baslayacak-sevindiren-haber-geldi.jpg",
+            "imdb puanı":"9,8",
+            "tür":"Komedi Dizi,Aile Dizi",
+            "yayın tarihi":"2016",
+            "ülkesi":"Türkiye",
+            "acıklama":"Seksenli yıllarda İstanbul’un küçük bir mahallesinde yaşayan insanların hikâyesi. Her sahnesiyle tam bir dönem dizisi… Hem nostaljik, hem enerjik, hem de çok komik… "
+          },
+          {
+            "id": 3,
+            "name": "Yedi Numara",
+            "resim":"https://www.trt1.com.tr/public/dm_upload/modul4/2ad2b92b-e866-4986-9778-8efa52c0ef26.jpg",
+            "imdb puanı":"8,0",
+            "tür":"Komedi Dizi, Aile Dizi , Dram Dizi",
+            "yayın tarihi":"9,6",
+            "ülkesi":"Türkiye",
+            "acıklama":"Aynı üniversitede okuyan ve aileleri başka şehirde yaşayan dört kız arkadaş, yurtta rahat edemedikleri için beraber bir ev kiralamaya karar verirler.Fakat oturabilecekleri, beğendikleri evlere ya maddi güçleri yetmez ya da ev sahipleri evlerini öğrenciye kiralamaz. Sonunda iki katlı ahşap 7 numaralı evin kiralık olduğunu görürler. Hiç çocukları olmamış ama birbirine çok düşkün Vahit ve Zeliha çiftinin olan bu ahşap evin üst katını, 4 kız arkadaş kiralar. Fakat bakkal Vahit'in saf, taşralı amca oğulları da İstanbul'a gelip aynı evin alt katına yerleşince cümbüş başlar! "
+          }
+        ]
+      },
+      {
+        "SubMainID": 1,
+        "SubNameame": "Animasyon",
+        "ListDiziAnimasyon": [
+          {
+            "id": 1,
+            "name": "Archer",
+            "resim":"https://i0.wp.com/www.filmloverss.com/wp-content/uploads/2018/07/archer-FilmLoverss.jpg?w=750&ssl=1",
+            "imdb puanı":"7,0",
+            "tür":"Animasyon Dizi",
+            "yayın tarihi":"2011",
+            "ülkesi":"ABD",
+            "acıklama":"Archer, hem macerayı hem de komediyi içinde barındıran bir anlatı sunuyor. Kahramanların Güney Amerika’nın balta girmemiş ormanlarından, Güney Pasifik’in tehlikeli adalarına uzanan maceralarında başlarına ummadık bir sürü olay gelirken bir yandan da onları dünyayı tüm kötülüklerden kurtarmaya çalışırlarken görürüz. FX ve FXX yapımı Archer, dokuzuncu sezonuyla sevenleriyle geçtiğimiz nisan ayında buluştu."
+          },
+          {
+            "id": 2,
+            "name": "Bob’s Burgers",
+            "resim":"https://i0.wp.com/www.filmloverss.com/wp-content/uploads/2018/07/bobs-burger-FilmLoverss.jpg?w=750&ssl=1",
+            "imdb puanı":"4,6",
+            "tür":"Animasyon Dizi",
+            "yayın tarihi":"2000",
+            "ülkesi":"Çin",
+            "acıklama":"Bob’s Burgers, 2013 yılında TV Guide tarafından en iyi 60 televizyon çizgi dizi arasında yer almayı başardı. İlk sezonuyla çoğu olumlu olmak üzere birçok farklı geribildirim alan dizi, ikinci sezonun ardından 2014’te Dynamite Entertainment tarafından çizgi roman hâline getirildi. Bunun yanı sıra iki kez Emmy ödülüne layık görülen Bob’s Burger dokuzuncu sezonu için onay aldı, 2020’de sevenleriyle buluşmaya hazırlanıyor."
+          },
+          {
+            "id": 3,
+            "name": "Dilbert",
+            "resim":"https://i1.wp.com/www.filmloverss.com/wp-content/uploads/2018/07/dilbert-FilmLoverss-1.jpg?w=750&ssl=1",
+            "imdb puanı":"5,5",
+            "tür":"Animasyon Dizi",
+            "yayın tarihi":"1996",
+            "ülkesi":"Fransa",
+            "acıklama":"Orta yaşlarda bir beyaz yakalının yaşamını anlatan Dilbert, 1999 yılında aynı isimli çizgi romandan televizyon ekranlarına taşındı. Çizgi roman gibi televizyon serisini de Scott Adams geliştirdi ve kendisine bu kez Seinfeld yazar ve yapımcılarından Larry Charles da eşlik etti. Elektrik mühendisliği konusunda uzman ve çalıştığı ofisteki sorunlara yüksek zekasıyla etkili çözümler bulabilen Dilbert (Daniel Stern)’in en önemli sorunu zekasını ifade edememesi ve bu durumdan doğan pesimist kara komedisi."
+          }
+        ]
+      },
+      {
+        "SubMainID": 1,
+        "SubName": "Aksiyon",
+        "ListDiziAksiyon": [
+          {
+            "id": 1,
+            "name": "Daredevil",
+            "resim":"https://www.neoldu.com/d/other/netflix-en-iyi-aksiyon-dizileri-037.jpg",
+            "imdb puanı":"7,9",
+            "tür":"Aksiyon Dizi",
+            "yayın tarihi":"2015",
+            "ülkesi":"ABD",
+            "acıklama":"Daredevil, son yıllarda çıkan en ilginç ve en başarılı süper kahraman dizileri arasındadır. 2015 yılında Netflix ekranlarına gelen Daredevil, IMDB sıralamasında da en iyi Marvel dizileri arasında yer almaktadır."
+          },
+          {
+            "id": 2,
+            "name": "Şemsiye Akademisi ",
+            "resim":"https://www.neoldu.com/d/other/netflix-en-iyi-aksiyon-dizileri.png",
+            "imdb puanı":"7,9",
+            "tür":"Aksiyon Dizi",
+            "yayın tarihi":"2017",
+            "ülkesi":"İngiltere",
+            "acıklama":"Netflix orijinal içerikleri arasında bir dizi olan The Umbrella Academy, 2019 yılına adeta damgasını vurdu. Dizide 1989 yılında, aynı gün doğan 43 bebeğin hikayesi anlatılır. Bu bebekler büyüdüklerinde bir akademinin üyesi olacaktır.Bu akademinin kuruluş amacı dünyayı kurtaracak ekibi yaratmaktadır ancak her şey planlandığı gibi gitmez. Netflix dizileri arasında oldukça yeni olan The Umbrella Academy, otoritelere göre uzun yıllar boyunca devam edecek bir yapım."
+          },
+          {
+            "id": 3,
+            "name": "Vikingler",
+            "resim":"https://www.neoldu.com/d/other/netflix-en-iyi-aksiyon-dizileri-038.jpg",
+            "imdb puanı":"8,7",
+            "tür":"Aksiyon Dizi",
+            "yayın tarihi":"2018",
+            "ülkesi":"Fransa",
+            "acıklama":"Son yılların en çok izlenen dizleri arasında yer alan ve bir süredir Netflix aksiyon dizileri arasında izleyicilerle buluşan Vikings, kamera çekimleri ve oyunculuk performansları ile adeta tarihi evimize taşıyor. Dizinin başrolünde Ragnar Lothbrok yer alıyor. İlk sezonunda ileriyi göremeyen ve yetersiz olan lideri meydan okuyup liderliği alan Ragnar, sonrasında ise kendileri tarafından hiç keşfedilmemiş topraklara yöneliyor. İngiltere, Fransa ve nice birçok ülke… Her sahnesi ayrı bir heyecan ayrı bir aksiyon… "
+          }
+        ]
+      },
+      {
+        "SubMainID": 1,
+        "SubName": "Tarih",
+        "ListDiziTarih": [
+          {
+            "id": 1,
+            "name": "Peaky Blinders",
+            "resim":"https://listelist.com/wp-content/uploads/2018/07/1287.jpg",
+            "imdb puanı":"3,5",
+            "tür":"Tarih Dizi",
+            "yayın tarihi":"2020",
+            "ülkesi":"Avusturya",
+            "acıklama":"Tarih dizisi denilince aklan ilk gelenlerden biri Peaky Blinders. Birinci Dünya Savaşı sonrası dönemde geçen Birmingham, İngiltere’de yaşayan “Peaky Blinders” adlı çeteyi anlatıyor. Suç-drama türünün en sevilenlerinden olan dizi, Cillian Murphy tarafından canlandırılan Tommy Shelby rolündeki çete liderinin etrafında dönüyor. 2013’de başladı ve 4 sezonu bulunuyor. 5. sezonun ise 2019’da yayınlanması bekleniyor."
+          },
+          {
+            "id": 2,
+            "name": "Rome",
+            "resim":"https://listelist.com/wp-content/uploads/2018/07/2141.jpg",
+            "imdb puanı":"5,8",
+            "tür":"Tarih Dizi",
+            "yayın tarihi":"1998",
+            "ülkesi":"ABD",
+            "acıklama":"2005 yılında 12 bölümlük ilk sezonuyla başlayan dizi, 2007’de 2.sezonunun yayınlanmasıyla son buldu. 2 sezonluk Rome Altın Küre ve Emmy Ödülleri dahil birçok ödüle aday gösterildi. İlk sezonda MÖ 49’larda Julius Caesar yönetimindeki Roma İmparatorluğu’nun Galya’da ve Mısır’daki mücadelesinin ve aynı zamanda ülke içinde, özellikle senatoda yaşanan çekişmeler anlatılıyor. İkinci sezonda ise Sezar’ın varisi genç Oktavius (Octavian) ve Marcus Antonius (Mark Antony) arasındaki güç mücadelesi yansıtılıyor. "
+          },
+          {
+            "id": 3,
+            "name": "Downton Abbey",
+            "resim":"https://listelist.com/wp-content/uploads/2018/07/2316.jpg",
+            "imdb puanı":"4,4",
+            "tür":"Tarih Dizi",
+            "yayın tarihi":"2007",
+            "ülkesi":"Azarbeycan",
+            "acıklama":"Ünlü gemi Titanic’in buzdağına çarparak batması sonucu Crawley ailesi iki ferdi hayatını kaybeder. 15 Nisan 1912 itibariyle ailede hiçbir şey eskisi gibi olmayacaktır. Crawley’in malikanesinde dengeler değişir. 2010-2015 yılları arasında yayınlanan dizinin toplamda 6 sezonu bulunuyor."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MainId": 3,
+    "Name": "Belgesel",
+    "ListBelgesel": [
+      {
+        "SubMainID": 1,
+        "SubName": "Gezi",
+        "ListBelgeselGezi": [
+          {
+            "id": 1,
+            "name": "Mavi Gezegen II",
+            "resim":"https://blog.flypgs.com/wp-content/uploads/2017/12/blue-planet-belgeseli.jpg",
+            "imdb puanı":"9,9",
+            "tür":"Gezi Belgesel",
+            "yayın tarihi":"2005",
+            "ülkesi":"Türkiye",
+            "acıklama":"125 farklı çekim açısının kullanıldığı 7 bölümlük mini belgesel serisi Blue Planet II, 6000 saatlik su altı çekimi ve 1000 saatlik denizaltı türevi aygıtlarla yapılan kayıtların kurgulanmasıyla ortaya çıkmış. Müzikleri Hans Zimmer tarafından bestelenen 2017’in en iyi doğa belgeseli Mavi Gezegen II, dünyayı daha yakından tanımak isteyen herkes için bir baş ucu yapıtı olacak."
+          },
+          {
+            "id": 2,
+            "name": "Yeryüzü 2",
+            "resim":"https://blog.flypgs.com/wp-content/uploads/2017/12/planet-earth-belgeseli.jpg",
+            "imdb puanı":"9,8",
+            "tür":"Gezi Belgesel",
+            "yayın tarihi":"2002",
+            "ülkesi":"Almanya",
+            "acıklama":"Doğanın mucizelerinin peşine düşenler, yolda her zaman David Attenborough ile karşılaşıyor. BBC’nin dünya konusunda en kapsamlı doğa ve seyahat belgesi Planet Earth, ikincisiyle de doğa tutkunlarını mest ediyor. On binlerce belgesel tutkunu tarafından tam puana layık görülen Planet Earth II, dünyanın ne kadar büyük olduğunu fark etmek için muhteşem bir sanatsal şaheser. 2016 yılında yayınlanan 11 bölümlük doğa ve belgesel serisi Planet Earth II, Türkçesiyle Yeryüzü 2; içinde inanılmaz emek, sevgi, merak ve heyecan barındırıyor. "
+          },
+          {
+            "id": 3,
+            "name": "Kutuplar Atlası",
+            "resim":"https://blog.flypgs.com/wp-content/uploads/2017/12/kutuplar-atlasi-belgesel.jpg",
+            "imdb puanı":"9,0",
+            "tür":"Gezi Belgeseli",
+            "yayın tarihi":"2003",
+            "ülkesi":"2009",
+            "acıklama":"David Attenborough ile beraber bu sefer dünyanın en tenha ve soğuk bölgelerine gidiyoruz. Dünyanın kuzey kutbu Arktika ve güney kutbu Antarktika, 2011 yılında yayınlanan doğa belgeseli Frozen Planet’in ana konusu. Gezegenin en ücra köşeleri, cansız ve tenha görünebilir ama içinde sıra dışı bir ekoloji barındırıyor. Penguenleri, balinaları ve kutuplarda yaşayan diğer canlıları, Frozen Planet mini belgesel serisiyle çok daha yakından tanıyabilirsin. Uzaktan aynı görünebilirler ama yakından, hepsi kendine özgü, özel bir birey. "
+          }
+        ]
+      },
+      {
+        "SubMainID": 1,
+        "SubNameame": "Hayvan",
+        "ListBelgeselHayvan": [
+          {
+            "id": 1,
+            "name": "Son Aslanlar",
+            "resim":"https://listelist.com/wp-content/uploads/2019/05/SONASLANLAR-e1557347149452.jpg",
+            "imdb puanı":"3,3",
+            "tür":"Hayvan Belgeseli",
+            "yayın tarihi":"2006",
+            "ülkesi":"Afrika",
+            "acıklama":"Belgesel listesi yapıp aslanları dahil etmemek olmazdı. National Geographic imzalı bu belgeselde aradığınız belgesel tadını bulacağınıza eminiz."
+          },
+          {
+            "id": 2,
+            "name": "Monkey Kingdom",
+            "resim":"https://listelist.com/wp-content/uploads/2019/05/monkeykingdom-e1557347217450.jpg",
+            "imdb puanı":"5,5",
+            "tür":"Hayvan Belgeseli",
+            "yayın tarihi":"2019",
+            "ülkesi":"Rusya",
+            "acıklama":"Sri Lanka ormanlarında yaşayan bir maymun ailesinin yaşamını kim merak etmez ki? Yeni doğmuş bir maymun ve annesinin ilişkisini konu alan 2015 yapımı bu belgesel film alışık olduğunuz belgesellerden farklı oluşuyla izlemeye değer."
+          },
+          {
+            "id": 3,
+            "name": "İmparatorun Yolculuğu",
+            "resim":"https://listelist.com/wp-content/uploads/2019/05/imparatorun-yolculu%C4%9Fu-e1557347354738.jpg",
+            "imdb puanı":"6,0",
+            "tür":"Hayvan Belgeseli",
+            "yayın tarihi":"2001",
+            "ülkesi":"Danimarka",
+            "acıklama":"Belgesel denince akla gelen bir diğer isim, penguenler. Aslan ne kadar kralsa onlar da o kadar imparator. Bu imparatorların Antarktika’daki yıllık yolculuğuna bu güzel belgesel filmle dahil olabilirsiniz."
+          }
+        ]
+      },
+      {
+        "SubMainID": 1,
+        "SubName": "Tarih",
+        "ListBelgeselTarih": [
+          {
+            "id": 1,
+            "name": "Büyük Dünya Tarihi",
+            "resim":"https://listelist.com/wp-content/uploads/2019/05/d%C3%BCnyatarihi2.jpg",
+            "imdb puanı":"8,6",
+            "tür":"Tarih Belgeseli",
+            "yayın tarihi":"2000",
+            "ülkesi":"Türkiye",
+            "acıklama":"Listemize Büyük Dünya Tarihi’yle başlıyoruz. İsmiyle müsemma BBC yapımı bu belgesel, izleyicilerini Afrika’daki ilk zamanlarımızdan alıp İkinci Dünya Savaşı sonrası 20. Yüzyılına kadar getiriyor. Hem de tam 8 bölümde, etkileyici, açıklayıcı, sürükleyici bir şekilde."
+          },
+          {
+            "id": 2,
+            "name": "Küba’nın Özgürlük Hikayesi",
+            "resim":"https://listelist.com/wp-content/uploads/2019/05/k%C3%BCba.jpg",
+            "imdb puanı":"5,6",
+            "tür":"Tarih Belgeseli",
+            "yayın tarihi":"2020",
+            "ülkesi":"Türkiye",
+            "acıklama":"Netflix yapımı bu belgesel dizisinde İspanya sömürgesinden kurtulan Küba’nın, Soğuk Savaş’ın sonuna kadar uzanan çalkantılı siyasi hayatını izleyebilirsiniz. Fidel Castro ve Che Guevara gibi sembol olmuş ve önemli isimleri barındıran Küba siyasi tarihi; metni, konuşmacıları ve anlatımıyla oldukça güzel sunulmuş."
+          },
+          {
+            "id": 3,
+            "name": "Osmanlılar: Avrupa’nın Müslüman İmparatorları",
+            "resim":"https://listelist.com/wp-content/uploads/2019/05/osmanl%C4%B1.jpg",
+            "imdb puanı":"9,9",
+            "tür":"Tarih Belgeseli",
+            "yayın tarihi":"2003",
+            "ülkesi":"Türkiye",
+            "acıklama":"Osmanlı tarihine yönelik tarih kitabı anlatımından uzak, kapsamlı ve objektif bir belgesel izlemek isteyenler için ne yazık ki seçenekler epey kısıtlı. BBC yapımı üç bölümlük bu belgesel dizisi ise “Batılı bir göz Osmanlı tarihine nasıl yaklaşıyor”u görmek isteyenler için tercih edilebilir bir yapım."
+          }
+        ]
+      }      
+    ]
+  },
+  {
+    "MainId": 4,
+    "Name": "ShowProgramı",
+    "ListShow": [
+      {
+        "SubMainID": 1,
+        "SubName": "Aile",
+        "ListShowAile": [
+          {
+            "id": 1,
+            "name": "Aileler Yarışıyor",
+            "resim":"https://www.trt1.com.tr/public/dm_upload/modul4/978f5830-013e-4568-affa-317d2daf0273.jpg",
+            "imdb puanı":"8,6",
+            "tür":"Yarışma Show",
+            "yayın tarihi":"2008",
+            "ülkesi":"Türkiye",
+            "acıklama":"Aileler Yarışıyor, Ufuk Özkan'ın sunumuyla TRT1'de! "
+          },
+          {
+            "id": 2,
+            "name": "Yaparsın Aşkım",
+            "resim":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fox.com.tr%2FYaparsin-Askim%2Fizle&psig=AOvVaw3zCGW89bKBUrcJFxBwa1P4&ust=1589641648137000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJD0heCStukCFQAAAAAdAAAAABAI",
+            "imdb puanı":"7,9",
+            "tür":"Yarışma Show",
+            "yayın tarihi":"2009",
+            "ülkesi":"Türkiye",
+            "acıklama":"aile ,komedi, kahkaha ve eğlence..."
+          }         
+        ]
+      },
+      {
+        "SubMainID": 2,
+        "SubNameame": "TalkShow",
+        "ListShowTalkShow": [
+          {
+            "id": 1,
+            "name": "Rüstem Batum Show",
+            "resim":"https://i.milliyet.com.tr//OnedioGallery/Detail/2017/03/29/3242fA2u03rp5_1.jpg",
+            "imdb puanı":"8,2",
+            "tür":"Komedi Show ",
+            "yayın tarihi":"2008",
+            "ülkesi":"Türkiye",
+            "acıklama":"Kendinden önceki 80'li yılların TRT formatıyla yapılmış showları saymazsak belki de Türkiye'de yapılmış ilk talk-show programı. Özel televizyonların yeni yeni filizlendiği yıllarda 'Beyin tokatlayan program' jeneriği ile hatırlarda kalan Rüstem Batum Show siyasetten, magazine o günün gündemine etki eden bir programdı."
+          },
+          {
+            "id": 2,
+            "name": "Televizyon Çocuğu",
+            "resim":"https://i.milliyet.com.tr//OnedioGallery/Detail/2017/03/29/3242Aw4CRNl55_3.jpg",
+            "imdb puanı":"8,2",
+            "tür":"Talk Show",
+            "yayın tarihi":"2000",
+            "ülkesi":"Türkiye",
+            "acıklama":"Okan Bayülgen'in televizyonculuğun kurallarını alt üst ettiği, 90'ların özgürlük ortamında bir televizyon programında yapılabileceklerin sınırlarını yukarıya taşıyan ve talk-show mantığına bir ekol getiren programdı. 1995-1997 arası cuma hariç hafta içi her gece, gece yarısı ile 01.30 saatleri arasında yayınlanan program o dönemin gençlerinin sıkı takipçisi olduğu bir TV şovu olarak akıllarda yer etti."
+          },
+          {
+            "id": 3,
+            "name": "Beyaz Show",
+            "resim":"https://i.milliyet.com.tr//OnedioGallery/Detail/2017/03/29/3242fi7VrieM5_5.jpg",
+            "imdb puanı":"8,8",
+            "tür":"Talk Show",
+            "yayın tarihi":"2000",
+            "ülkesi":"Türkiye",
+            "acıklama":"Türk televizyon tarihinin belki de en uzun soluklu programı. Beyazıt Öztürk'ün televizyonculukta geçirdiği kariyerinin neredeyse tamamına denk düşen Beyaz Show yarattığı tiplemeleri, şakaları, skeçleriyle talk-show mantığına yeni bir soluk getirdi"
+          }
+        ]
+      }     
+    ]
+  },
+  {
+    "MainId": 5,
+    "Name": "Spor",
+    "ListSpor": [
+      {
+        "SubMainID": 1,
+        "SubName": "Futbol",
+        "ListSporFutbol": [
+          {
+            "id": 1,
+            "name": "Futbol'A",
+            "resim":"https://iaaspr.tmgrup.com.tr/258b44/203/132/109/0/780/437?u=https://iaspr.tmgrup.com.tr/2019/10/24/futbola-23102019-1571871117472.jpg",
+            "imdb puanı":"7,5",
+            "tür":"Futbol Spor",
+            "yayın tarihi":"2009",
+            "ülkesi":"Türkiye",
+            "acıklama":"Aykut İnce'nin moderatörlüğünde A Spor yorumcuları Levent Tüzemen, Gürcan Bilgiç ve Erol Kaynar, Futbol'A programında spor gündemine dair değerlendirmelerde bulunduğu futbol programı.Futbol'A programının tamamını a spor'da"
+          },
+          {
+            "id": 2,
+            "name": "Beyaz Futbol",
+            "resim":"https://pbs.twimg.com/profile_images/1045721746295410693/HIlfto0S_400x400.jpg",
+            "imdb puanı":"4,4",
+            "tür":"Futbol Spor",
+            "yayın tarihi":"2014",
+            "ülkesi":"Türkiye",
+            "acıklama":"Haftanın nefes kesen tüm maçları, teknik direktör ve oyuncuların performansları, şampiyonluk yarışındaki son durum, futbol dünyasının duayenleri tarafından yorumlanıyor.Moderatörlüğünü ERTEM ŞENER'in yaptığı BEYAZ FUTBOL Cumartesi günleri 23:30'da SİNAN ENGİN ile; Pazar günleri ise yine aynı saatte AHMET ÇAKAR, SİNAN ENGİN, ABDÜLKERİM DURMAZ ve ÜMİT KARAN'ın yorumlarıyla Beyaz TV ekranlarında…"
+          }
+        ]
+      },
+      {
+        "SubMainID": 1,
+        "SubNameame": "Basketbol",
+        "ListSporBasketbol": [
+          {
+            "id": 1,
+            "name": "NBA Stüdyo ",
+            "resim":"https://seyler.ekstat.com/img/max/800/1/19ekZVldhAopIoVe-636389095112395549.jpg",
+            "imdb puanı":"8,8",
+            "tür":"Basketbol Spor",
+            "yayın tarihi":"2001",
+            "ülkesi":"Türkiye",
+            "acıklama":"Murat Kosova, Murat Murathanoğlu ve Kaan Kural üçlüsünün başta NBA olmak üzere basketbol hakkında neredeyse her şeyi konuştukları, televizyonun gürültüsü içinde ferah bir nefes alma olanağı sağlayan NBA Stüdyo'yu şöyle bir hatırlamak güzel olur. "
+          }
+        ]
+      }
+    ]
+  }
+]

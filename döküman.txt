@@ -1,0 +1,116 @@
+
+
+******olusturulan jframede web servisi extend edilmesi ve oluşturduğum json-jTree 
+public class myView extends javax.swing.JFrame {
+
+    private  void CreatMenu() {
+         WebService webservice=new WebService();
+        try {
+            String json=webservice.getMyJson("http://www.json-generator.com/api/json/get/bUvaCuYlgy?indent=2");
+            List<MainCategoryDTO> allTree=webservice.getEmployessList(json);
+            CreateJTree(allTree);
+        } catch (IOException ex) {
+            Logger.getLogger(myView.class.getName()).log(Level.SEVERE, null, ex);
+        }
+         
+    }
+
+
+--------------------------------------------------------------------------------------------------
+
+***** jsondan agaca cekilme işlemi ve oluşturulması  Root oluşturuldu
+
+private void  CreateJTree(List<MainCategoryDTO> allTree) {
+         
+        
+         DefaultMutableTreeNode root = new DefaultMutableTreeNode("Listem");
+        for (int i = 0; i < allTree.size(); i++) {
+          MainCategoryDTO  mainCategory = allTree.get(i);
+          DefaultMutableTreeNode mainCategoryTree = new DefaultMutableTreeNode(mainCategory.getName());
+          CreatSubCategory(mainCategory.getList(),mainCategoryTree);
+          root.add(mainCategoryTree);
+        }       
+      
+        
+        DefaultTreeModel model = new DefaultTreeModel(root);        
+        jTree1.setModel(model);  
+        jTree1.setRootVisible(false);
+        jTree1.addTreeSelectionListener((javax.swing.event.TreeSelectionEvent evt) -> {
+            JTree1ValueChanged(evt);
+         });
+
+
+----------------------------------------------------------------------------------------------
+
+******alt categori ve elemanlar bağlandı  ve jsondan çekilen veriler jTable'a aktarıldı
+
+private void CreatTableDetail(SubCategoryDTO subCategoryDTO) {
+        String[] columns = {"Id ","Adı", "Yayın Yılı", "Ülke", "İmdb","Resim","Açıklama"};
+        Object[][] data =Helper.ListSubToObjectArry(subCategoryDTO.getListDetail());
+        TableDetailModel model = new TableDetailModel(columns, data);    
+        jTable1.setModel(model);
+        jTable1.getSelectionModel().addListSelectionListener(new ListSelectionListener(){
+        public void valueChanged(ListSelectionEvent event) {
+            
+              
+            try {
+                String resimUrl =jTable1.getValueAt(jTable1.getSelectedRow(),5).toString();
+                String aciklama =jTable1.getValueAt(jTable1.getSelectedRow(),6).toString();
+                jLabel2.setText(aciklama);
+                SetImageWithUrl(resimUrl);
+            } catch (IOException ex) {
+                Logger.getLogger(myView.class.getName()).log(Level.SEVERE, null, ex);
+            }
+
+--------------------------------------------------------------------------------------------------
+
+********reim url çekildi  ve hangi columb tıklandığında hangi resim url çekilceği yapıldı ve hangi columb
+tıklanırsa ona ait url  çekildi
+
+private void SetImageWithUrl(String urlImage) throws IOException {
+         
+        try {
+            System.out.println("Resim URL>>>>"+ urlImage);
+            URL url;
+            url = new URL(urlImage);
+            BufferedImage bufferedImage = ImageIO.read(url);
+            ImageIcon image = new ImageIcon(bufferedImage);
+            jLabel3.setIcon(image); 
+        } catch (Exception ex) {
+            Logger.getLogger(myView.class.getName()).log(Level.SEVERE, null, ex);
+        }
+----------------------------------------------------------------------------------------------------------
+
+****helper sınıfında dönüşümler yapıldı  ve  gelicek verilerin neler oluğu oluşturuldu  
+
+public class Helper {
+    public static Object[][] ListSubToObjectArry(List<ViewDetailDTO> viewDetailDTOs){
+         Object[][]  data =new Object[viewDetailDTOs.size()][7];
+        for (int i = 0; i < viewDetailDTOs.size(); i++) {
+           ViewDetailDTO dto=viewDetailDTOs.get(i);
+             data[i][0]=dto.getId();
+             data[i][1]=dto.getAdi();
+             data[i][2]=dto.getYayınTarihi();
+             data[i][3]=dto.getUlke();
+             data[i][4]=dto.getImdbPuan();
+             data[i][5]=dto.getResim();
+             data[i][6]=dto.getAciklama();
+        }
+  
+        return data;
+    }
+}
+---------------------------------------------------------------------------------------------------------------
+ */
+public class TableDetail {
+
+    public TableDetail(JTable jTable1, SubCategoryDTO subCategoryDTO) {
+           
+        String[] columns = {"Id ","Adı", "Yayın Yılı", "Ülke", "İmdb"};
+        Object[][] data =Helper.ListSubToObjectArry(subCategoryDTO.getListDetail());
+        TableDetailModel model = new TableDetailModel(columns, data);      
+        jTable1.setModel(model);       
+         
+    }
+    
+}

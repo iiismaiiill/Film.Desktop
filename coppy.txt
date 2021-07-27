@@ -1,0 +1,236 @@
+[
+  {
+    "MainId": 1,
+    "Name": "Film",
+    "ListDetail": [
+      {
+        "SubMainID": 1,
+        "SubName": "Aile",
+        "ListDetail": [
+          {
+            "id": 29,
+            "name": "Harry Potter1"
+          },
+          {
+            "id": 30,
+            "name": "Harry Potter2"
+          },
+          {
+            "id": 30,
+            "name": "Harry Potter3"
+          }
+        ]
+      },
+      {
+        "SubMainID": 1,
+        "SubNameame": "Animasyon",
+        "ListDetail": [
+          {
+            "id": 29,
+            "name": "Harry Potter1"
+          },
+          {
+            "id": 30,
+            "name": "Harry Potter2"
+          },
+          {
+            "id": 33,
+            "name": "Harry Potter3"
+          }
+        ]
+      },
+      {
+        "SubMainID": 1,
+        "SubName": "Aksiyon",
+        "ListDetail": [
+          {
+            "id": 29,
+            "name": "Venom 1"
+          },
+          {
+            "id": 30,
+            "name": "Venom 2 "
+          },
+          {
+            "id": 32,
+            "name": "Venom 3"
+          }
+        ]
+      },
+      {
+        "SubMainID": 1,
+        "SubName": "Tarih",
+        "ListDetail": [
+          {
+            "id": 29,
+            "name": "Harriet 1"
+          },
+          {
+            "id": 30,
+            "name": "Harriet 2"
+          },
+          {
+            "id": 31,
+            "name": "Harriet 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MainId": 1,
+    "Name": "Dizi",
+    "ListDetail": [
+      {
+        "SubMainID": 1,
+        "SubName": "Aile",
+        "ListDetail": [
+          {
+            "id": 29,
+            "name": "Harry Potter1"
+          },
+          {
+            "id": 30,
+            "name": "Harry Potter2"
+          },
+          {
+            "id": 30,
+            "name": "Harry Potter3"
+          }
+        ]
+      },
+      {
+        "SubMainID": 1,
+        "SubNameame": "Animasyon",
+        "ListDetail": [
+          {
+            "id": 29,
+            "name": "Harry Potter1"
+          },
+          {
+            "id": 30,
+            "name": "Harry Potter2"
+          },
+          {
+            "id": 33,
+            "name": "Harry Potter3"
+          }
+        ]
+      },
+      {
+        "SubMainID": 1,
+        "SubName": "Aksiyon",
+        "ListDetail": [
+          {
+            "id": 29,
+            "name": "Venom 1"
+          },
+          {
+            "id": 30,
+            "name": "Venom 2 "
+          },
+          {
+            "id": 32,
+            "name": "Venom 3"
+          }
+        ]
+      },
+      {
+        "SubMainID": 1,
+        "SubName": "Tarih",
+        "ListDetail": [
+          {
+            "id": 29,
+            "name": "Harriet 1"
+          },
+          {
+            "id": 30,
+            "name": "Harriet 2"
+          },
+          {
+            "id": 31,
+            "name": "Harriet 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MainId": 1,
+    "Name": "Belgesel",
+    "ListDetail": [
+      {
+        "SubMainID": 1,
+        "SubName": "Aile",
+        "ListDetail": [
+          {
+            "id": 29,
+            "name": "Harry Potter1"
+          },
+          {
+            "id": 30,
+            "name": "Harry Potter2"
+          },
+          {
+            "id": 30,
+            "name": "Harry Potter3"
+          }
+        ]
+      },
+      {
+        "SubMainID": 1,
+        "SubNameame": "Animasyon",
+        "ListDetail": [
+          {
+            "id": 29,
+            "name": "Harry Potter1"
+          },
+          {
+            "id": 30,
+            "name": "Harry Potter2"
+          },
+          {
+            "id": 33,
+            "name": "Harry Potter3"
+          }
+        ]
+      },
+      {
+        "SubMainID": 1,
+        "SubName": "Aksiyon",
+        "ListDetail": [
+          {
+            "id": 29,
+            "name": "Venom 1"
+          },
+          {
+            "id": 30,
+            "name": "Venom 2 "
+          },
+          {
+            "id": 32,
+            "name": "Venom 3"
+          }
+        ]
+      },
+      {
+        "SubMainID": 1,
+        "SubName": "Tarih",
+        "ListDetail": [
+          {
+            "id": 29,
+            "name": "Harriet 1"
+          },
+          {
+            "id": 30,
+            "name": "Harriet 2"
+          },
+          {
+            "id": 31,
+            "name": "Harriet 3"
+          }
+        ]
+      }
+    ]
+  }
+]
